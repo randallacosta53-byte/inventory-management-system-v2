@@ -10,7 +10,7 @@ This project simulates real-world inventory operations such as product tracking,
 ## Key Features
 
 - Add and manage products
-- Register stock خروج (product output)
+- Register stock (product output)
 - View current inventory
 - Detect products nearing expiration
 - Modular architecture (core, CLI, GUI)
@@ -68,15 +68,15 @@ Generate basic operational insights
 
 This project was developed to:
 
-Practice modular software design
-Implement real-world data handling workflows
-Understand Python package structure and imports
-Build multi-interface applications (CLI + GUI)
+- Practice modular software design
+- Implement real-world data handling workflows
+- Understand Python package structure and imports
+- Build multi-interface applications (CLI + GUI)
 
 ---
 
 ## Future Improvements
-Database integration
-REST API backend
-User authentication system
-Dashboard with analytics
+- Database integration
+- REST API backend
+- User authentication system
+- Dashboard with analytics
